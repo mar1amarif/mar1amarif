@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Maryam 👋
 
-<!--
-**mar1amarif/mar1amarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Software Engineer with 6 years of experience building
+AI products, SaaS applications, enterprise dashboards and modern web applications.
 
-Here are some ideas to get you started:
+⚛️ React
+▲ Next.js
+📘 TypeScript
+🟢 Node.js
+🐘 PostgreSQL
+☁️ AWS (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+• Backend architecture
+• Node.js
+• System Design
+
+Open to Senior Frontend / Full Stack opportunities.
